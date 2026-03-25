@@ -1,0 +1,11 @@
+node_modules
+dist
+.env
+.env.local
+.DS_Store
+*.log
+
+# Never commit your API key!
+# Set it as an Environment Variable in Vercel dashboard instead.
+
+.vercel
