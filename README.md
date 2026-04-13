@@ -9,7 +9,7 @@ AI-powered study notes for the **HEC National Skill Competency Test** for IT Gra
 ## Features
 
 - Full syllabus coverage: 10 subject areas, 100+ topics
-- AI-generated notes, key concepts, and MCQ practice questions per topic
+- AI-generated notes, key concepts, and MCQ practice questions as per topics
 - Clean dark-themed UI built with React + Vite
 - Serverless backend via Vercel API routes (no CORS issues, API key stays safe)
 
